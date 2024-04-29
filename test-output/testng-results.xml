@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-24T21:36:11 IST" name="Suite" finished-at="2024-04-24T21:36:25 IST" duration-ms="13463">
+    <groups>
+    </groups>
+    <test started-at="2024-04-24T21:36:11 IST" name="Test" finished-at="2024-04-24T21:36:25 IST" duration-ms="13463">
+      <class name="testcases.verifyregistrationtestcases">
+        <test-method signature="verifyregistrationwithvaliddata()[pri:0, instance:testcases.verifyregistrationtestcases@20deea7f]" started-at="2024-04-24T21:36:11 IST" name="verifyregistrationwithvaliddata" finished-at="2024-04-24T21:36:21 IST" duration-ms="9060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregistrationwithvaliddata -->
+      </class> <!-- testcases.verifyregistrationtestcases -->
+      <class name="testcases.verifyLoginTestcases">
+        <test-method signature="varifyLoginwithValidData()[pri:0, instance:testcases.verifyLoginTestcases@72057ecf]" started-at="2024-04-24T21:36:21 IST" name="varifyLoginwithValidData" finished-at="2024-04-24T21:36:25 IST" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyLoginwithValidData -->
+      </class> <!-- testcases.verifyLoginTestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
